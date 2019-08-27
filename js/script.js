@@ -317,5 +317,5 @@ $('#return-to-top').click(function() {      // When arrow is clicked
 		map.setMapTypeId('roadatlas');
 	}
 
-	google.maps.event.addDomListener(window, "load", initialize);
+	 
 
